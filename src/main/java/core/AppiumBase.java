@@ -17,7 +17,7 @@ public class AppiumBase {
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("udid","8679c84e");
         capabilities.setCapability("automationName","UiAutomator2");
-        capabilities.setCapability("appPackage", "com.banggood.client");
+        capabilities.setCapability("appPackage", "com.todoist");
         capabilities.setCapability("appActivity", ".module.home.MainActivity");
         capabilities.setCapability("newCommandTimeout",700);
 

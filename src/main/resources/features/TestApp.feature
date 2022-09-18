@@ -1,5 +1,6 @@
 Feature: Test app
 
+#  This scenarios write here
   @TestApp
-  Scenario: Test case 1
-    Given Open Easy Online Shopping App
+  Scenario: Title
+    Given #Steps

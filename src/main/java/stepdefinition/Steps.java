@@ -7,9 +7,10 @@ import pages.HomePage;
 public class Steps {
     HomePage homePage = new HomePage();
 
-    @Given("Open Easy Online Shopping App")
-    public void openBanggoodEasyOnlineShoppingApp() {
-        homePage.verifyHome();
+    //This is step definition here
+    @Given("")
+    public void openApp() {
+        //Code here
     }
 
 }
